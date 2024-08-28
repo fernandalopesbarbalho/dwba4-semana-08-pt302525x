@@ -1,5 +1,5 @@
 # Desenvolvimento Web: Cliente - Semana 8
-Código em HTML e JavaScript produzidos para entrega em atividades, exercícios e trabalhos durante o terceiro semestre de Análise e Desenvolvimento de Sistemas (IFSP), referente à matéria de Desenvolvimento Web: Cliente.
+Código em HTML, CSS e JavaScript produzidos para entrega em atividades, exercícios e trabalhos durante o terceiro semestre de Análise e Desenvolvimento de Sistemas (IFSP), referente à matéria de Desenvolvimento Web: Cliente.
 
 ## Manipulando Páginas com JavaScript - 31/07/2024
 O site deve conter as características presentes no [vídeo](https://www.youtube.com/watch?v=B4P3L-jp8W0).
